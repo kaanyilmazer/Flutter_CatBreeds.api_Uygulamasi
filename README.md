@@ -7,4 +7,4 @@ My Flutter Project
 
 ------------------------------------------------------------------------------------------
 
-![İçerik][url=https://www.hizliresim.com/hbi64po][img]https://i.hizliresim.com/hbi64po.jpg[/img][/url]
+![İçerik] ([https://www.hizliresim.com/hbi64po])
